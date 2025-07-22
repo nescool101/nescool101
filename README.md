@@ -1,75 +1,96 @@
-# 👋 Hi there, I’m **Néstor F. Álvarez Gómez** (nescool101)
+# 👋 Hi, I’m **Néstor F. Álvarez Gómez (nescool101)**
 
-**Master's in Project Management | Software Engineer**
-
-📍 Bogotá, Colombia | 🛠️ Software Engineer  
+**Master’s in Project Management** • **Senior Software Engineer**  
+Bogotá, Colombia | Remote  
 🌐 [nescool101.netlify.app](https://nescool101.netlify.app)  
-📞 +57 312 489 4828 | ✉️ nfalvarezg@gmail.com
+📞 +57 312 489 4828 | ✉️ nfalvarezg@gmail.com  
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Experience
 
-- Passionate software engineer with a solid foundation in **project management**, thanks to my Master’s emphasis.
-- Experience in delivering software solutions at **GNP Seguros**—leveraging strong communication and analytical skills :contentReference[oaicite:1]{index=1}.
-- Enthusiastic about learning new technologies and translating business needs into high-impact code.
+### **Senior Software Engineer (Contract)** — *GNP Seguros*  
+**Mar 2025 – Jun 2025** | Bogotá, D.C., Colombia (Remote)  
+- Led migration from legacy systems to **Java 17**, integrating with **Foundry** platforms.  
+- Implemented front-end features using **Angular**, enhancing maintainability and performance.
 
----
+### **Senior Software Engineer (Contract)** — *CAS*  
+**Nov 2023 – Mar 2025** | Bogotá, D.C., Colombia (Remote)  
+- Contributed to GNP Seguros projects as part of CAS contracting team, adapting enterprise solutions and integrations.
 
-## 💼 Professional Experience
+### **Software Engineer (Full‑time)** — *Veem*  
+**Sep 2022 – Oct 2023** | Bogotá, D.C., Colombia (Remote)  
+- Backend development using **Java**, **Spring Boot**, and **PostgreSQL/MySQL**.  
+- Deployed on **AWS EKS** environment and integrated EKS-hosted microservices.  
+- Improved data pipelines and system resilience through effective infrastructure practices.
 
-### **Software Engineer @ GNP Seguros**, Bogotá D.C., Colombia  
-- Developed and maintained enterprise-level applications, optimizing processes and enhancing collaboration :contentReference[oaicite:2]{index=2}.
-- Applied project management practices to ensure timely delivery, resource coordination, and effective stakeholder communication.
+### **Software Designer** — *Expedia Group Media Solutions* (via Globant)  
+**Aug 2021 – Aug 2022** | Bogotá, D.C., Colombia (Remote)  
+- Designed backend services using **Java 8**, **Kotlin**, and microservices architecture.  
+- Deployed on AWS (EKS, ECS, S3, ELB, Cognito, API Gateway).  
+- Built **Kafka** consumers/producers for event streaming; used **Redis**, **Terraform**, **Pulumi**, and **Spinnaker**.  
+- Implemented centralized logging with **Kibana**, and data migrations with **Python** scripting.
 
----
+### **Senior Software Engineer** — *ADL Digital Lab*  
+**Jun 2020 – Aug 2021** | Bogotá, D.C., Colombia  
+- Worked across full stack delivering enterprise solutions for corporate clients.
 
-## 🎓 Education
+### **Senior Software Engineer** — *Blackboard (via Globant)*  
+**Jan 2020 – Jun 2020** | Bogotá, D.C., Colombia (Remote)  
+- Enhanced a monolithic Spring MVC application; collaborated on front-end transition to **React** and **Angular 5**.  
+- Technologies: Java, Spring Boot, Couchbase, MySQL, RabbitMQ, Docker, Jenkins, JMeter, Splunk, Maven, Gradle.
 
-- **Master’s in Project Management**  
-- **Software Engineering Degree** from Universidad Distrital Francisco José de Caldas :contentReference[oaicite:3]{index=3}.
+### **Software Engineer** — *The Walt Disney Company (via Globant)*  
+**May 2018 – Dec 2019** (Junior → Semi Senior) | Remote  
+- Built backend services in **Golang** and **Java**, facilitating REST APIs and database interactions.  
+- Integrated middleware in **Node.js**, front-end enhancements in **React.js**.  
+- Ensured over 90% test coverage; deployed services on AWS, managed CI/CD pipelines in Jenkins.
 
----
-
-## 🛠️ Technical Skills
-
-**Frontend:** React, Angular, JavaScript, TypeScript  
-**Backend:** Node.js, Go  
-**Tools & DevOps:** Docker, CI/CD  
-**Database:** PostgreSQL, MySQL  
-**Project Management:** Agile methodologies, team coordination
-
----
-
-## 📂 Featured Projects
-
-### [Project Name] – React SPA for real estate rentals  
-- Built a full-stack single-page application showcasing property listings, search/filter functionality, user auth, and API integration.
-
-### FinTrack (Golang)  
-- Backend service in Go for financial data aggregation; includes services and config modules, implements concurrency and API clients :contentReference[oaicite:4]{index=4}.
-
-### Angular CRUD Sample  
-- Hands-on demo of a basic CRUD web app built with Angular and Bootstrap.
-
----
-
-## 📈 GitHub Stats & Contributions
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nescool101&show_icons=true&count_private=true)  
-Arctic Code Vault Contributor • YOLO Challenge Achiever
+### **Software Developer & Analyst Roles** (2013–2017)  
+- Worked with **Assist Consultores**, **Mercury TFS (Spain)**, **Periferia IT Group**, **Grupodot**, **Ritbox SAS**, **Softix**, and **Ingecam Ltda**.  
+- Delivered Java-based applications, database development, and technical analysis support across diverse enterprise environments.
 
 ---
 
-## 🌱 Learning & Community
+## 🛠️ Tech Stack
 
-- Frequent contributor to open-source—mainly Go and JavaScript ecosystems  
-- Creating [YouTube content under “nescool101”](https://www.youtube.com/c/nescool101) (26K+ subscribers) :contentReference[oaicite:5]{index=5}  
-- Actively exploring advanced patterns in microservices, backend optimization, and cloud deployment
+- **Backend:** Java (Spring Boot), Go, Kotlin, Node.js  
+- **Frontend:** Angular, React, JavaScript/TypeScript  
+- **Cloud / DevOps:** AWS (EKS, ECS, S3, ELB, Cognito, API Gateway), Docker, Terraform, Pulumi, Spinnaker  
+- **Databases:** PostgreSQL, MySQL, Couchbase, Redis  
+- **Streaming & Messaging:** Kafka, RabbitMQ  
+- **CI/CD & Monitoring:** Jenkins, Splunk, Kibana, JMeter  
+- **Testing & Collaboration:** Unit testing, pair programming, Git
 
 ---
 
-## 📫 How to Reach Me
+## 💼 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| **FinTrack (Golang service)** | Financial data aggregator and microservice pipelines (Go, concurrency, REST APIs) |
+| **Angular CRUD App** | Demonstrated full-stack CRUD operations with Angular and Bootstrap |
+| **Real Estate SPA** | React frontend with user auth, search/filter, integrated backend (Node/Java) |
+
+---
+
+## 📈 GitHub & Community Engagement
+
+- [GitHub stats](https://github-readme-stats.vercel.app/api?username=nescool101&show_icons=true&count_private=true)  
+- Arctic Code Vault Contributor • Active open-source contributor (Go, JS ecosystems)  
+- Creator of instructional content on YouTube (26K+ subscribers): [nescool101](https://www.youtube.com/c/nescool101)
+
+---
+
+## 🌱 Learning, Certifications & Interests
+
+- **Master’s in Project Management** focused on Agile methodologies and team leadership  
+- Software Engineering degree from Universidad Distrital Francisco José de Caldas  
+- Ongoing learning in microservices, cloud-native backend optimization, infrastructure as code
+
+---
+
+## 📫 Contact & Connect
 
 - **Email:** nfalvarezg@gmail.com  
 - **Phone:** +57 312 489 4828 (Colombia)  
@@ -77,6 +98,6 @@ Arctic Code Vault Contributor • YOLO Challenge Achiever
 
 ---
 
-### ⭐ Let’s Connect
+### 🤝 Let’s Collaborate
 
-I’m open to collaboration on meaningful software projects, mentorship opportunities, or team leadership roles in back-end/frontend development. Let’s build something great together!
+I’m eager to contribute to impactful, high-scale software projects, mentor others, and support teams in backend/frontend development and architectural evolution. Let’s build something remarkable together!
