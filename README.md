@@ -4,7 +4,7 @@
 Bogotá, Colombia | Remote  
 🌐 [nescool101.netlify.app](https://nescool101.netlify.app)  
 🌐 [nescool101.linkedin](https://www.linkedin.com/in/nfalvarezg)  
-📞 +57 312 489 4828 | ✉️ nfalvarezg@gmail.com  
+📞 +57 312 489 4828 | ✉️ nescool101@gmail.com  
 
 ---
 
