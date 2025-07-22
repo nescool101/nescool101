@@ -3,6 +3,7 @@
 **Master’s in Project Management** • **Senior Software Engineer**  
 Bogotá, Colombia | Remote  
 🌐 [nescool101.netlify.app](https://nescool101.netlify.app)  
+🌐 [nescool101.linkedin](https://www.linkedin.com/in/nfalvarezg)  
 📞 +57 312 489 4828 | ✉️ nfalvarezg@gmail.com  
 
 ---
